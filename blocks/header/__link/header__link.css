@@ -6,3 +6,8 @@
     font-weight: normal;
     z-index: 30;
 }
+
+.header__link:hover {
+    opacity: .6;
+    transition: opacity 1s;
+}
