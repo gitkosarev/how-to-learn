@@ -1,10 +1,10 @@
 .video__iframe {
-    min-width: 515px;
-    min-height: 316px;
-    margin: 0 20px 0 0;
-    border: none;
+  min-width: 515px;
+  min-height: 316px;
+  margin: 0 20px 0 0;
+  border: none;
 }
 
 .video__iframe:nth-child(2n) {
-    margin: 0;
+  margin: 0;
 }
